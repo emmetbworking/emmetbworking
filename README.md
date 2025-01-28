@@ -1,16 +1,20 @@
-## Hi there 👋
+A little bit about me:
 
-<!--
-**emmetbworking/emmetbworking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am soon to be graduating with a HDip in Software Development from Atlantic Technological University, (ATU). 
+My skills include 
+JavaScript, 
+TypeScript, 
+CSS, HTML5,
+Angular 
+Knowledge of database systems such as SQL. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying advanced JavaScript and React via Scrimba.
+I will upload projects here as I work through the course.
+
+I am also a visual artist with a BA(Hons) in Fine Art from Crawford, (MTU), 2016.
+A career as an artist let me develop excellent communication skills, understanding client needs, working self-sufficiently and being innovative. 
+My artist website is emmetbrickley.com. 
+
+
+📫 You can reach me at emmetbworks@gmail.com. I am always interested in new opportunities, so don't hesitate to reach out.
