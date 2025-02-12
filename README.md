@@ -3,7 +3,7 @@ About me:
 I am soon to be graduating with a HDip in Software Development from Atlantic Technological University, (ATU). 
 My skills include JavaScript, TypeScript, CSS, HTML5, Angular and knowledge of database systems such as SQL. 
 
-Currently studying advanced JavaScript and React via Scrimba's online courses.
+Currently studying React via Scrimba's online courses.
 I will upload projects here as I work through the course.
 
 I am also a visual artist with a BA(Hons) in Fine Art from Crawford, (MTU), 2016.
